@@ -1,8 +1,8 @@
 /*
 Name:Strcpy
 Date:2014/11/7
-Function:输入一个以秒为单位的时间转换为以分钟数和剩余秒数的时间输出
-*/
+Function:计算一个以秒为单位的时间量所包含的分钟数和剩余秒数
+ */
 
 package pack;
 
