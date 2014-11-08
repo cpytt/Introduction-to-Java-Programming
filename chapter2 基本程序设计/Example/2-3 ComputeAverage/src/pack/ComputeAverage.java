@@ -2,7 +2,7 @@
 Name:Strcpy
 Date:2014/11/7
 Function:输入三个数并求其平均值
- */
+*/
 
 package pack;
 
